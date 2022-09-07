@@ -27,6 +27,8 @@ As the museum is located at the bank of Southern musi river,people can take cab 
 |---|---|---|---|
 |Delhi consists of Taj Mahal and it was built by Shah Jahan|Hyderabad have Charminar and Golconda|Trivandrum has Padmanabhaswamhy temple and napier museum|Jaipur has Thar desert |
 
+
+
 |City Name|Location to visit|Time to spend|
 |---|---|---|
 |New York|Statue of Liberty|one hour|
@@ -34,3 +36,16 @@ As the museum is located at the bank of Southern musi river,people can take cab 
 |New Orleans|French Quarter|2 hours|
 
 ***
+
+
+
+**Pithy Quotes**
+>Not how long, but how well you have lived is the main thing - ***Seneca***
+>
+>Do all the good you can, for all the people you can, in all the ways you can, as long as you can - ***Hilary Clinton***
+>
+>They may forget what you said, but they will never forget how you made them feel - ***Carl W. Buechner***
+
+
+
+
