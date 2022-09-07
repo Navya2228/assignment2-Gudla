@@ -19,3 +19,18 @@ As the museum is located at the bank of Southern musi river,people can take cab 
     * Hussain Sagar
 
 [AboutMe](AboutMe.md)
+
+
+***
+**Table**
+|Delhi|Hyderbad|Trivandrum|jaipur|
+|---|---|---|---|
+|Delhi consists of Taj Mahal and it was built by Shah Jahan|Hyderabad have Charminar and Golconda|Trivandrum has Padmanabhaswamhy temple and napier museum|Jaipur has Thar desert |
+
+|City Name|Location to visit|Time to spend|
+|---|---|---|
+|New York|Statue of Liberty|one hour|
+|Los Angeles|Disneyland Park|4 hours|
+|New Orleans|French Quarter|2 hours|
+
+***
