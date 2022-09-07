@@ -10,7 +10,9 @@
 
 **Rajiv Gandhi International Airport**
 
-As the museum is located at the bank of Southern musi river,people can take cab or bus to go to airport.People can take the 229D or 2Y or 9C bus totravel from museum to airport
+1. As the museum is located at the bank of Southern musi river.
+2. people can take cab or bus to go to airport.
+    1. People can take the 229D or 2Y or 9C bus totravel from museum to airport
 
 **Suggesting Locations**
 * Golconda
